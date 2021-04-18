@@ -1,0 +1,22 @@
+{
+	"author": "Sanjid Alam",
+	"description": "A project that does something awesome",
+  "keywords": [ "new project", "manage node.js", "package.json", "freecodecamp" ],
+  "license": "MIT",
+  "version": "1.2.0",
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+
+  "express": "4.14.0"
+
+},
+	
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
